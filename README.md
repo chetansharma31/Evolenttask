@@ -40,5 +40,9 @@ GO
 
 4.Change the Web.config connection string with your local/server details.
 
-5.Build the solution
+5.Build the solution and Run it.
+
+
+
+
 
