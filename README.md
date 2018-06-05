@@ -35,4 +35,10 @@ CREATE TABLE [dbo].[ContactDetails](
 
 GO
 
+3.Open the solution file "EvolentTaskApplication.sln" from folder.
+
+
+4.Change the Web.config connection string with your local/server details.
+
+5.Build the solution
 
